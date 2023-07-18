@@ -1,5 +1,5 @@
 # Django-WebRtc
-Video and Audio Calling with WebRtc in Django
+Video and Audio Calling with WebRtc in Django Smaple project
 
 ## Create Virtualenv with Python3
 	virtualenv virtual/webrtc -p python3
